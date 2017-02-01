@@ -3,4 +3,4 @@ Learning to use "To Russia with love" tutorial to connect &amp; stablish a TOR c
 
 This code is different from the provided by the tutorial due special configuration needed for tor_process in MacOS
 
-The script has been tested in Python 2.7 and the required libraries (to be installed using pip I.E.) are included in the `requirements.txt` file
+The script has been tested in Python 2.7 and the required libraries (to be installed using pip I.E.) are included in the `requirements.txt` file. As pointed out before, this code is tailored to work under MacOSX (tested in _Sierra_) with the TorBrowser previously installed.
