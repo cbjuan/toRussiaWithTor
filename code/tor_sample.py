@@ -10,9 +10,6 @@ import urllib
 import io
 
 import stem.process
-from stem import Signal
-from stem.control import Controller
-
 from stem.util import term
 
 SOCKS_PORT = 7000
